@@ -224,3 +224,7 @@ Teaching others is one of the best forms of personal learning growth. Nothing qu
 ### inclusive
 
 In all of my lesson plans I've written, I've tried my best to stay away from pronouns like "I", "you", "me", "my", "your", and instead opt for pronouns like "we", "us", "our" in situations where I can. My opinion is that learning is a group goal, and my experience has show me that most students resonate towards that sentiment as well. Learning things is challenging enough, I like to embrace that group growth mentality in those small places where I can in my lessons.
+
+### Credibility
+
+Albeit this particular lesson has some purely anecdotal knowledge. It's important to base your workshop on credible information. I mean, I'm certainly not following any crazy APA type guidelines, but simple links to references and documentation can make your lesson plan documentation in and of it self.

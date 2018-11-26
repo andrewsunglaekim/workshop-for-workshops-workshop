@@ -59,6 +59,8 @@ As a group, keep in mind the bullet points above, write 3 learning objectives fo
 
 Now that we have some learning objectives. Workshops need to be able to measure against those learning objectives.
 
+In education there are at least two types of assessment, formative assessments and summative assessments.
+
 In workshops and one off classes, instructors generally only need [formative learning assessments](https://www.cmu.edu/teaching/assessment/basics/formative-summative.html).
 
 Formative assessments allow students "to provide ongoing feedback that can be used by instructors to improve their teaching and by students to improve their learning." [quoted here](https://www.cmu.edu/teaching/assessment/basics/formative-summative.html)
@@ -67,7 +69,7 @@ The end goal is already there. To teach a specific thing or set of specific thin
 
 Summative assessments through feedback is good if time permits. But really only helps the instructor for the next iteration of the class. However, it is extremely effective to get iterative feedback for a specific workshop.
 
-> here's just some formative checks on learning I personally have found effective
+> here's some examples of formative checks on learning I personally have found effective
 
 > As a side note Checks on learning should be viewed as an educational tool not simply a diagnostic one for the instructor.
 

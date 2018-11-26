@@ -12,8 +12,7 @@
 
 > disclaimer
 Some of the thoughts and techniques ahead are things that I've found personal success in.
-Though much of the content will be sourced with links.
-It should be noted that some the things written here are my own opinions on what I've found success with.
+Though much of the content will be sourced with links, It should be noted that some the things written here are my own opinions on what I've found success with.
 
 ## Opening Framing (1/2)
 
@@ -31,11 +30,7 @@ Andragogy is the science of understanding and supporting lifelong education of a
 
 ### Andragogy - discussion (7/11)
 
-Read over the following 6 bullet points for the next 2 minutes. Then with your table answer the following:
-
-- Is there anything that we've read that isn't clear about adult motivation to learn?
-- Why might it be important to consider these factors when building out a lesson or workshop?
-
+Read over the following 6 bullet points for the next 2 minutes. 
 Knowles' theory can be stated with six assumptions related to the motivation of adult learning:
 
 -  **Need to know**: Adults need to know the reason for learning something.
@@ -46,6 +41,11 @@ Knowles' theory can be stated with six assumptions related to the motivation of 
 -  **Motivation**: Adults respond better to internal versus external motivators.
 
 > This is stripped directly from wikipedia [here](https://en.wikipedia.org/wiki/Andragogy).
+
+Then with your table answer the following:
+
+- Is there anything that we've read that isn't clear about adult motivation to learn?
+- Why might it be important to consider these factors when building out a lesson or workshop?
 
 ## Learning objectives - exercise 1 (8/19)
 
@@ -75,7 +75,7 @@ Summative assessments through feedback is good if time permits. But really only 
 
 ### examples
 #### Think Pair Share || Think Ink Pair Share
-This was actually the first check on learning we did. It allows students to guide discussion. There's an alternate version where you can write answers down.
+This was actually the first check on learning we did. It allows students to guide discussion. There's an alternate version where you can write answers down. These can be nice on the opposite side of a lecture heavy activity to reinforce learnings from the lecture.
 
 #### I do you do or vice versa
 Instructor does or explains something then allows the student to mirror the activity. The flipped version can be effective as well. Where some initial path can be carved out for the student to attempt an activity. Then the instructor solves by showing methodology and approach.
@@ -101,7 +101,7 @@ There are others that require more rigorous procedural instructions and follow t
 
 ### Good 'ol college style lecture
 
-Sometimes we need to sit there and explain something for 5 minutes. yep.
+Sometimes we need to sit there and explain something for 5 minutes. Be cognizant of student engagement here, it's easy to loose students during particularly long and dull portions of lectures.
 
 ### I do - you do (and vice versa)
 
@@ -146,7 +146,7 @@ This script is helpful in many ways. It allows us to deliver accurate timings.
 
 > Notice the parentheses with the numbers in the headers? These are the timings for this lesson.
 
-Not to mention it removes doubt and bolsters confidence. It helps to know what we're going to say when we write down exactly what we want to say.
+Not to mention it removes doubt and bolsters confidence for the instructor. It helps to know what we're going to say when we write down exactly what we want to say when we want to say it.
 
 ## Learning Objectives (6/43)
 
@@ -177,7 +177,7 @@ In that they
 [Characteristics of Good Learning Outcomes - Article Here](https://teaching.utoronto.ca/teaching-support/course-design/developing-learning-outcomes/characteristics-of-good-learning-outcomes/)
 
 ### Example
-If we were to deliver a workshop on how to bake a pizza.
+If we were to make some learning objects for a workshop on how to bake a pizza.
 
 Here's an example of a bad learning objective:
 
@@ -198,7 +198,7 @@ It's hard to measure someones ability to understand something. Where as you can 
 A better set of learning objectives for this workshop might be
 
 - create dough from scratch
-- apply pizza toppings and sauce
+- apply pizza sauce and toppings
 - bake pizza in oven
 
 If a student sees these learning objectives, they immediately know what to expect. If they wanted to know how to make a pizza, they'd probably be pretty happy.
@@ -216,7 +216,7 @@ In fact, they are so important that anything in the lesson that doesn't teach to
 As a group, use the next 4 minutes to modify any learning objectives you'd like or any other parts of your answers. Prepare the following content to be easily slacked:
 
 ### Sharing is caring (5/52)
-Each group presents the high level overview of their class. Slack the following information
+Each group presents the high level overview of their class. Slack the following information before presenting:
 
 - workshop topic
 - original 3 learning Objectives
@@ -233,8 +233,23 @@ Each group presents the high level overview of their class. Slack the following 
 
 Steps 1-3 take the longest.
 
-## Appendix
+## Addendum
 There's some content perhaps worth mentioning but doesn't really fit in the general context of the workshop above. Anyways here it is:
+
+### Benefits of Teaching
+
+Why teach anything at all? There are lots of reasons to teach.
+
+Teaching others is one of the best forms of personal learning growth. Nothing quite makes sure we know something then by teaching it effectively to someone else. Additionally it allows us to be involved with the direction of our own eduction as well as at the organizational level.
+
+### inclusive
+
+In all of my lesson plans I've written, I've tried my best to stay away from pronouns like "I", "you", "me", "my", "your", and instead opt for pronouns like "we", "us", "our" in situations where I can. My opinion is that learning is a group goal, and my experience has shown me that most students resonate towards that sentiment as well. Learning things is challenging enough, I like to embrace that group growth mentality in those small places where I can in my lessons.
+
+### Credibility
+
+Albeit this particular lesson has some purely anecdotal knowledge. It's important to base your workshop on credible and accurate information. I mean, I'm certainly not following any crazy APA/MLA/chicago type guidelines, but simple links to references and documentation can make your lesson plan documentation in and of it self. Additionally it helps students looking for those outside resources.
+
 
 ### Code
 
@@ -243,17 +258,3 @@ If we write any amount of code into our lesson plans. It must be accurate. We al
 Make sure the code looks pretty. This is something small, but make it look presentable. Additionally make it accessible. (ie. copy pastable)
 
 Additionally if we have an exercise associated with the workshop we're creating, it's usually very helpful to have a git repository containing the exercises with solutions branches for any solutions.
-
-### Benefits of Teaching
-
-Why teach anything at all? There are lots of reasons to teach.
-
-Teaching others is one of the best forms of personal learning growth. Nothing quite makes sure we know something then by teaching it effectively to someone else. Additionally it allows us to be involved with the direction of our own eduction as well as the organizational level.
-
-### inclusive
-
-In all of my lesson plans I've written, I've tried my best to stay away from pronouns like "I", "you", "me", "my", "your", and instead opt for pronouns like "we", "us", "our" in situations where I can. My opinion is that learning is a group goal, and my experience has show me that most students resonate towards that sentiment as well. Learning things is challenging enough, I like to embrace that group growth mentality in those small places where I can in my lessons.
-
-### Credibility
-
-Albeit this particular lesson has some purely anecdotal knowledge. It's important to base your workshop on credible information. I mean, I'm certainly not following any crazy APA type guidelines, but simple links to references and documentation can make your lesson plan documentation in and of it self.

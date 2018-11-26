@@ -137,14 +137,14 @@ With clear and concise learning objectives, the lesson plan becomes much easier 
 
 Before we move into learning objectives though, let's not gloss over an important piece here. We do in fact want to write every bit of what we as instructors want to say during delivery. A script for our workshop. This isn't something we necessarily need to share with the students, but it can be. The act of writing and proofreading a lesson plan will allow us as instructors to get better familiarity with the workshops content.
 
-> I personally use markdown files. I hate decks as much as the next person, and I think a github link works as a great "paper handout" in 2018. But you can use anything you want, keynote, power point, sketch, etc. My lesson plans are my scripts.
+> This lesson uses markdown. I hate decks as much as the next person, and I think a github link works as a great "paper handout" in 2018. But you can use anything you want, keynote, power point, sketch, etc. My lesson plans are my scripts.
 
 "Winging" a lesson is generally discouraged unless the instructor is extremely well versed in the subject matter and has familiarity with teaching the subject matter. Even then, a little planning probably wouldn't hurt these instructors either.
 
 #### Timings (1/37)
 This script is helpful in many ways. It allows us to deliver accurate timings.
 
-> Notice the parentheses with the numbers in the headers? These are my timings
+> Notice the parentheses with the numbers in the headers? These are the timings for this lesson.
 
 Not to mention it removes doubt and bolsters confidence. It helps to know what we're going to say when we write down exactly what we want to say.
 
@@ -176,7 +176,36 @@ In that they
 
 [Characteristics of Good Learning Outcomes - Article Here](https://teaching.utoronto.ca/teaching-support/course-design/developing-learning-outcomes/characteristics-of-good-learning-outcomes/)
 
-These bullet points establish an extremely high level of importance in learning objectives to the workshops and lessons we prepare.
+### Example
+If we were to deliver a workshop on how to bake a pizza.
+
+Here's an example of a bad learning objective:
+
+```
+Understand how to bake a pizza
+```
+
+Here's an example of a good learning objective:
+
+```
+bake a pizza
+```
+
+It's hard to measure someones ability to understand something. Where as you can definitely measure if someone has correctly baked a pizza or not.
+
+Understanding is unclear to the student as well. Should they be understanding things about baking temperature and dough making?
+
+A better learning objectives for this workshop might be
+
+- create dough from scratch
+- apply pizza toppings and sauce
+- bake pizza in oven
+
+If a student sees these learning objectives, they immediately know what to expect. If they wanted to know how to make a pizza, they'd probably be pretty happy.
+
+### Back to the points above
+
+These bullet points above establish an extremely high level of importance in learning objectives to the workshops and lessons we prepare.
 
 In fact, they are so important that anything in the lesson that doesn't teach towards those learning objectives should be thrown out, or warrants rewriting of some of the learning objectives.
 

@@ -8,22 +8,22 @@
 - Identify the benefits of discrete planning within a workshop
 - Identify some common teaching techniques
 - Create timings for a workshop or class
-- Identify the importance of preparation with regard to the delivery of a workshop or class. // be overprepared
-- Identify the role emotions play into a workshop or class
+- Identify the importance of preparation with regard to the delivery of a workshop or class
 
-> disclaimer section. Some of the thoughts and techniques ahead are things that I've found personal success in.
+> disclaimer
+Some of the thoughts and techniques ahead are things that I've found personal success in.
 Though much of the content will be sourced with links.
 It should be noted that some the things written here are my own opinions on what I've found success with.
 
 ## Opening Framing (1/2)
 
-Workshops are meant to engage your audience.
+Workshops are meant to engage our audience.
 
 Because we, as instructors, are taking valuable parts of people's schedule, we want to optimize the amount of impact we have in a given amount of time.
 
 How do we do that? Well there are lots of schools of thought surrounding this.
 
-To start us formulating our own opinion let's take a look at some wikipedia points of interest on [`andragogy`](https://en.wikipedia.org/wiki/Andragogy)
+To start us formulating our own opinions let's take a look at some wikipedia points of interest on [`andragogy`](https://en.wikipedia.org/wiki/Andragogy)
 
 ## Andragogy (2/4)
 
@@ -51,9 +51,9 @@ Knowles' theory can be stated with six assumptions related to the motivation of 
 
 As a group, pick a topic for a workshop or class your group would like to teach.(dont worry, we wont actually teach in this class.. or will we!?) Perhaps it's a class you've been wanting to teach or a fun subject like baking 101. Try to pick something the group has a relative domain knowledge on.
 
-Knowing what you know about learning objects... which is whatever you came with before this class started.
+Knowing what you know about learning objectives... which is whatever you came with before this class started.
 
-As a group, write 3 learning objectives for the topic your group has chosen. As the class continues, you can modify these however your group wishes to modify these. In fact, it's highly encouraged! However, for fun, let's maintain the original learning objective written in this exercise pure for comparison later.
+As a group, keep in mind the bullet points above, write 3 learning objectives for the topic your group has chosen. As the class continues, you can modify these however your group wishes to modify these. In fact, it's highly encouraged! However, for fun, let's maintain the original learning objective written in this exercise pure for comparison later.
 
 ## Check on learning (5/24)
 
@@ -73,13 +73,13 @@ Summative assessments through feedback is good if time permits. But really only 
 
 ### examples
 #### Think Pair Share || Think Ink Pair Share
-This was actually the first check on learning we did. It allows students to guide discussion.
+This was actually the first check on learning we did. It allows students to guide discussion. There's an alternate version where you can write answers down.
 
 #### I do you do or vice versa
-Instructor does or explains something then allows the student to mirror the activity. The flipped version can be effective as well. Where some initial path can be carved out for the student to attempt and activity. Then the instructor solves by showing methodolgy and approach.
+Instructor does or explains something then allows the student to mirror the activity. The flipped version can be effective as well. Where some initial path can be carved out for the student to attempt an activity. Then the instructor solves by showing methodology and approach.
 
 #### Fist to 5
-This is a tool where you can gauge anecdotal levels of understanding of a subject. Where you let the students know holding a fist up represents a "0" level of knowledge and 5 fingers for "5" representing an expert level of knowledge. You could pivot into a lower barrier to entry if you see more 1's then you should. Or if you see more middle of the road you can give a bit more exposition and detail.
+This is a tool where we can gauge anecdotal levels of understanding of a subject. Where we let the students know holding a fist up represents a "0" level of knowledge and 5 fingers for "5" representing an expert level of knowledge. We could pivot into a lower barrier to entry if we see more 1's then we should. Or if we see more middle of the road we can give a bit more exposition and detail.
 
 > There's a wide variety of ways for students to interact with an instructor and fellow students. Ultimately that's one of our responsibilities as instructors. Finding the most effective ways for students to consume the information we're presenting. In some cases, we might not want to use a check on learning at all.
 
@@ -110,7 +110,10 @@ Useful as a check on learning, also useful here. So it can act as both an assess
 Organize students into groups and discuss topics. Congregate students at the end to consolidate key points.
 
 ### A pictures worth a thousand words
-Yeah, a nice infographic or sick chart will surely wow the audience. Maybe not, but it may facilitate learning in other ways.
+
+<img src="spongebob.jpg"/>
+
+A nice infographic or sick chart will surely wow the audience. Maybe not, but it may facilitate learning in other ways.
 
 ### Code along
 
@@ -124,63 +127,98 @@ Keeping workshops dynamic helps with student engagement. Combine 1 or more of th
 
 With your group, write a 2-3 sentence blurb about two teaching techniques that the group could use to teach towards the current learning objectives  
 
-## Preparation - write a script
+## Preparation - write a script (4/36)
 
 When we start to put pen to paper, the task seems fairly daunting fairly quickly. We're not writing a script for a lesson plan in today's class, however, we do want to drive the importance of clear learning objectives.
 
-With clear and concise learning objectives, the lesson plan becomes much easier to assembly. With a learning objective, we can associate that to a specific technique or check on learning and piecemeal the class together.
+With clear and concise learning objectives, the lesson plan becomes much easier to assemble. With a learning objective, we can associate that to a specific technique or check on learning and piecemeal the class together.
 
-Before we move into learning objectives though, let's not gloss over an important piece here. We do in fact want to write every bit of what we as instructors want to say during delivery. A script for our workshop.
+Before we move into learning objectives though, let's not gloss over an important piece here. We do in fact want to write every bit of what we as instructors want to say during delivery. A script for our workshop. This isn't something we necessarily need to share with the students, but it can be. The act of writing and proofreading a lesson plan will allow us as instructors to get better familiarity with the workshops content.
 
-#### Timings
+> I personally use markdown files. I hate decks as much as the next person, and I think a github link works as a great "paper handout" in 2018. But you can use anything you want, keynote, power point, sketch, etc. My lesson plans are my scripts.
+
+"Winging" a lesson is generally discouraged unless the instructor is extremely well versed in the subject matter and has familiarity with teaching the subject matter. Even then, a little planning probably wouldn't hurt these instructors either.
+
+#### Timings (1/37)
 This script is helpful in many ways. It allows us to deliver accurate timings.
 
 > Notice the parentheses with the numbers in the headers? These are my timings
 
-Not to mention it removes doubt and bolsters confidence. It helps to know exactly what we're going to say when we write down exactly what we want to say.
+Not to mention it removes doubt and bolsters confidence. It helps to know what we're going to say when we write down exactly what we want to say.
 
-## Learning Objectives
+## Learning Objectives (6/43)
 
-If we take anything away from this workshop. Let it be the importance of learning objectives.
+If we take anything away from this workshop. Let it be the importance of learning objectives. A [good article from the university of toronto](https://teaching.utoronto.ca/teaching-support/course-design/developing-learning-outcomes/characteristics-of-good-learning-outcomes/) outlines some of the characteristics of good learning outcomes. According to them, good learning outcomes(objectives in our case) should be **SMART(TT)**
+
+In that they
+
+- **speak to the learner** - learning outcomes should address what the learner will know or be able to do at the completion of the course
+
+> Anything an instructor expects the students to know after attending their workshop should be consolidated within 1 or more learning objectives. Anything outside of these learning objectives are outside of scope and should not be included in the workshop.
+
+- **measurable** - learning outcomes must indicate how learning will be assessed
+
+> quantitatively or qualitatively measurable. Verbs like 'understand' and 'know' are hard to measure. Instead use more active verbs like implement, create, describe
+
+- **applicable** - learning outcomes should emphasize ways in which the learner is likely to use the knowledge or skills gained
+
+> learning objectives stays in scope and emphasizes student use cases.
+
+- **realistic** - all learners who complete the activity or course satisfactorily should be able to demonstrate the knowledge or skills addressed in the outcome
+
+> Achievable goals based on background and instruction
+
+- **time-bound** - the learning outcome should set a deadline by which the knowledge or skills should be acquired;
+- **transparent** - should be easily understood by the learner; and
+- **transferable** - should address knowledge and skills that will be used by the learner in a wide variety of contexts
+
+[Characteristics of Good Learning Outcomes - Article Here](https://teaching.utoronto.ca/teaching-support/course-design/developing-learning-outcomes/characteristics-of-good-learning-outcomes/)
+
+These bullet points establish an extremely high level of importance in learning objectives to the workshops and lessons we prepare.
+
+In fact, they are so important that anything in the lesson that doesn't teach towards those learning objectives should be thrown out, or warrants rewriting of some of the learning objectives.
+
+> In my own personal experience, I always start with learning objectives. Once I've established what those are, I piecemeal the class with a variance of teaching techniques helping guide each learning objective.
 
 
- -- pertinent to the learning objectives
-## Adult learning theory
+## Learning Objectives - final exercise (4/47)
+As a group, use the last 4 minutes to modify any learning objectives you'd like or any other parts of your
 
-- Moves from dependency to increasing selfdirectedness
-as he/she matures and can direct
-his/her own learning;
-- Draws on his/her accumulated reservoir of life
-experiences to aid learning;
-- Is ready to learn when he/she assumes new social
-or life roles;
-- Is problem-centered and wants to apply new
-learning immediately; and
-- Is motivated to learn internally rather than externally
+### Sharing is caring (5/52)
+Each group presents the high level overview of their class. Slack the following information
 
-implications for practice:
+- workshop name
+- original 3 learning Objectives
+- last 3 learning objectives
+- any interesting or dull teaching technique or check on learning.
+- estimate number of additional learning objectives needed to effectively teach this workshop
 
-Set a cooperative climate for learning in the classroom;
-• Assess the learner’s specific needs and interests;
-• Develop learning objectives based on the learner’s
-needs, interests, and skill levels;
-• Design sequential activities to achieve the objectives;
-• Work collaboratively with the learner to select methods,
-materials, and resources for instruction;
-and
-• Evaluate the quality of the learning experience
-and make adjustments, as needed, while assessing
-needs for further learning.
+## Closing - How to do a workshop (1/53)
 
-## Teaching techniques
-- whole group discussion (teacher to student)
-- small group discussion (student to student && teacher to student)
-- pairs exercise (student to student)
-- individual exercise or individual reading/though (student)
+1. Create strong concise learning objectives leading to the workshop's structure.
+2. Fill in the gaps with exercises and activities that contribute towards those learning objectives. (all)
+3. Write, read and proofread your script thoroughly
+4. Deliver workshop
 
-Techniques are not mutually exclusive and can/should be combined throughout the extent of a workshop. The important thing is variation, it aids learning through active student engagement
+Steps 1-3 take the longest.
 
-https://knowhownonprofit.org/how-to/how-to-design-a-training-workshop pretty decent step through resource
+## Appendix
+There's some content perhaps worth mentioning but doesn't really fit in the general context of the workshop above. Anyways here it is:
 
-## preparation
-- set up space to encourage discussion
+### Code
+
+If we write any amount of code into our lesson plans. It must be accurate. We already tested it? Test it again. Nothing is more embarrassing then writing code off a lesson plan that doesn't work and we can't figure out why.
+
+Make sure the code looks pretty. This is something small, but make it look presentable. Additionally make it accessible. (ie. copy pastable)
+
+Additionally if we have an exercise associated with the workshop we're creating, it's usually very helpful to have a git repository containing the exercises with solutions branches for any solutions.
+
+### Benefits of Teaching
+
+Why teach anything at all? There are lots of reasons to teach.
+
+Teaching others is one of the best forms of personal learning growth. Nothing quite makes sure we know something then by teaching it effectively to someone else. Additionally it allows us to be involved with the direction of our own eduction as well as the organizational level.
+
+### inclusive
+
+In all of my lesson plans I've written, I've tried my best to stay away from pronouns like "I", "you", "me", "my", "your", and instead opt for pronouns like "we", "us", "our" in situations where I can. My opinion is that learning is a group goal, and my experience has show me that most students resonate towards that sentiment as well. Learning things is challenging enough, I like to embrace that group growth mentality in those small places where I can in my lessons.

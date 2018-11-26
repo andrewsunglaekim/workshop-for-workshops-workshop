@@ -105,7 +105,7 @@ Sometimes we need to sit there and explain something for 5 minutes. yep.
 
 ### I do - you do (and vice versa)
 
-Useful as a check on learning, also useful here. So it can act as both an assessment for us as instructors but also a helpful teach technique
+Useful as a check on learning, also useful here. So it can act as both an assessment for us as instructors but also a helpful teaching technique
 
 ### Students teach
 
@@ -127,7 +127,7 @@ Keeping workshops dynamic helps with student engagement. Combine 1 or more of th
 
 ## General Teaching Techniques - exercise 3 (4/32)
 
-With your group, write a 2-3 sentence blurb about two teaching techniques that the group could use to teach towards the current learning objectives  
+With your group, write 2-3 sentences for 2 different teaching techniques that the group could use to teach towards the group's current learning objectives. It certainly doesn't have to be the ones mentioned above, but can be an example of them.
 
 ## Preparation - write a script (4/36)
 
@@ -184,15 +184,15 @@ In fact, they are so important that anything in the lesson that doesn't teach to
 
 
 ## Learning Objectives - final exercise (4/47)
-As a group, use the last 4 minutes to modify any learning objectives you'd like or any other parts of your
+As a group, use the last 4 minutes to modify any learning objectives you'd like or any other parts of your answers. Prepare the following content to be easily slacked:
 
 ### Sharing is caring (5/52)
 Each group presents the high level overview of their class. Slack the following information
 
-- workshop name
+- workshop topic
 - original 3 learning Objectives
-- last 3 learning objectives
-- any interesting or dull teaching technique or check on learning.
+- current 3 learning objectives if changed
+- any interesting teaching technique or check on learning?
 - estimate number of additional learning objectives needed to effectively teach this workshop
 
 ## Closing - How to do a workshop (1/53)

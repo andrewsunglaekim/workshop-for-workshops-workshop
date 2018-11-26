@@ -5,8 +5,8 @@
 - Create measurable learning objectives
 - Identify some tenants of adult learning theory
 - Describe some types of checks on learning
-- Identify the benefits of discrete planning within a workshop
 - Identify some common teaching techniques
+- Identify the benefits of discrete planning within a workshop
 - Create timings for a workshop or class
 - Identify the importance of preparation with regard to the delivery of a workshop or class
 
@@ -193,7 +193,7 @@ bake a pizza
 
 It's hard to measure someones ability to understand something. Where as you can definitely measure if someone has correctly baked a pizza or not.
 
-Understanding is unclear to the student as well. Should they be understanding things about baking temperature and dough making?
+"Understand" is unclear to the student as well. Should they be understanding things about baking temperature and dough making?
 
 A better set of learning objectives for this workshop might be
 
@@ -203,7 +203,7 @@ A better set of learning objectives for this workshop might be
 
 If a student sees these learning objectives, they immediately know what to expect. If they wanted to know how to make a pizza, they'd probably be pretty happy.
 
-### Back to the points above
+### Back to the **SMART(TT)** points above
 
 These bullet points above establish an extremely high level of importance in learning objectives to the workshops and lessons we prepare.
 
@@ -213,7 +213,7 @@ In fact, they are so important that anything in the lesson that doesn't teach to
 
 
 ## Learning Objectives - final exercise (4/47)
-As a group, use the last 4 minutes to modify any learning objectives you'd like or any other parts of your answers. Prepare the following content to be easily slacked:
+As a group, use the next 4 minutes to modify any learning objectives you'd like or any other parts of your answers. Prepare the following content to be easily slacked:
 
 ### Sharing is caring (5/52)
 Each group presents the high level overview of their class. Slack the following information
@@ -221,7 +221,7 @@ Each group presents the high level overview of their class. Slack the following 
 - workshop topic
 - original 3 learning Objectives
 - current 3 learning objectives if changed
-- any interesting teaching technique or check on learning?
+- any interesting teaching technique or check on learning?  or just a regular one of either?
 - estimate number of additional learning objectives needed to effectively teach this workshop
 
 ## Closing - How to do a workshop (1/53)

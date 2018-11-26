@@ -195,7 +195,7 @@ It's hard to measure someones ability to understand something. Where as you can 
 
 Understanding is unclear to the student as well. Should they be understanding things about baking temperature and dough making?
 
-A better learning objectives for this workshop might be
+A better set of learning objectives for this workshop might be
 
 - create dough from scratch
 - apply pizza toppings and sauce

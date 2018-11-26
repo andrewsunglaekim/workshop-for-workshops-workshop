@@ -33,7 +33,7 @@ Andragogy is the science of understanding and supporting lifelong education of a
 
 Read over the following 6 bullet points for the next 2 minutes. Then with your table answer the following:
 
-- Is there anything that we've read that isn't obvious about adults?
+- Is there anything that we've read that isn't clear about adult motivation to learn?
 - Why might it be important to consider these factors when building out a lesson or workshop?
 
 Knowles' theory can be stated with six assumptions related to the motivation of adult learning:
@@ -51,7 +51,7 @@ Knowles' theory can be stated with six assumptions related to the motivation of 
 
 As a group, pick a topic for a workshop or class your group would like to teach.(dont worry, we wont actually teach in this class.. or will we!?) Perhaps it's a class you've been wanting to teach or a fun subject like baking 101. Try to pick something the group has a relative domain knowledge on.
 
-Knowing what you know about learning objectives... which is whatever you came with before this class started.
+Knowing what you know about learning objectives... which is whatever you came with before this class started, write some learning objectives.
 
 As a group, keep in mind the bullet points above, write 3 learning objectives for the topic your group has chosen. As the class continues, you can modify these however your group wishes to modify these. In fact, it's highly encouraged! However, for fun, let's maintain the original learning objective written in this exercise pure for comparison later.
 

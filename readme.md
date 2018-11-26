@@ -198,7 +198,7 @@ Each group presents the high level overview of their class. Slack the following 
 ## Closing - How to do a workshop (1/53)
 
 1. Create strong concise learning objectives leading to the workshop's structure.
-2. Fill in the gaps with exercises and activities that contribute towards those learning objectives. (all)
+2. Fill in the gaps with exercises and activities that contribute towards all learning objectives.
 3. Write, read and proofread your script thoroughly
 4. Deliver workshop
 

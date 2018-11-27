@@ -83,6 +83,10 @@ Instructor does or explains something then allows the student to mirror the acti
 #### Fist to 5
 This is a tool where we can gauge anecdotal levels of understanding of a subject. Where we let the students know holding a fist up represents a "0" level of knowledge and 5 fingers for "5" representing an expert level of knowledge. We could pivot into a lower barrier to entry if we see more 1's then we should. Or if we see more middle of the road we can give a bit more exposition and detail.
 
+#### Exercises / Practical Applications
+
+These can vary greatly depending on the type of workshop we'd like to conduct. It's almost always beneficial for our students to execute against learning objectives during the workshop.
+
 > There's a wide variety of ways for students to interact with an instructor and fellow students. Ultimately that's one of our responsibilities as instructors. Finding the most effective ways for students to consume the information we're presenting. In some cases, we might not want to use a check on learning at all.
 
 ## Check on learning - exercise 2 (4/28)

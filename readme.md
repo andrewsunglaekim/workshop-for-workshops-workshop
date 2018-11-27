@@ -156,8 +156,6 @@ Not to mention it removes doubt and bolsters confidence for the instructor. It h
 
 If we take anything away from this workshop. Let it be the importance of learning objectives. A [good article from the university of toronto](https://teaching.utoronto.ca/teaching-support/course-design/developing-learning-outcomes/characteristics-of-good-learning-outcomes/) outlines some of the characteristics of good learning outcomes. According to them, good learning outcomes(objectives in our case) should be **SMART(TT)**
 
-In that they
-
 - **speak to the learner** - learning outcomes should address what the learner will know or be able to do at the completion of the course
 
 > Anything an instructor expects the students to know after attending their workshop should be consolidated within 1 or more learning objectives. Anything outside of these learning objectives are outside of scope and should not be included in the workshop.

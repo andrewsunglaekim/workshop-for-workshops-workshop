@@ -254,6 +254,9 @@ In all of my lesson plans I've written, I've tried my best to stay away from pro
 
 Albeit this particular lesson has some purely anecdotal knowledge. It's important to base your workshop on credible and accurate information. I mean, I'm certainly not following any crazy APA/MLA/chicago type guidelines, but simple links to references and documentation can make your lesson plan documentation in and of it self. Additionally it helps students looking for those outside resources.
 
+### Active Teaching
+
+It's important for the instructor to be engaging. Even during discussion exercises and practical exercises, it's important for instructors to walk around and actively guage student sentiment and progress. It allows instructors to get an awareness of current scope and promotes collaboration with our students.
 
 ### Code
 

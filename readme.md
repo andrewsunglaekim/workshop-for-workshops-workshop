@@ -162,7 +162,7 @@ If we take anything away from this workshop. Let it be the importance of learnin
 
 - **measurable** - learning outcomes must indicate how learning will be assessed
 
-> quantitatively or qualitatively measurable. Verbs like 'understand' and 'know' are hard to measure. Instead use more active verbs like implement, create, describe
+> quantitatively or qualitatively measurable. Verbs like 'understand' and 'know' are hard to measure. Instead use more active verbs like implement, create, describe. [Checkout this word doc for a pretty good list](https://github.com/andrewsunglaekim/workshop-for-workshops-workshop/raw/master/LO_verbs.docx)
 
 - **applicable** - learning outcomes should emphasize ways in which the learner is likely to use the knowledge or skills gained
 

@@ -179,7 +179,7 @@ If we take anything away from this workshop. Let it be the importance of learnin
 [Characteristics of Good Learning Outcomes - Article Here](https://teaching.utoronto.ca/teaching-support/course-design/developing-learning-outcomes/characteristics-of-good-learning-outcomes/)
 
 ### Example
-If we were to make some learning objects for a workshop on how to bake a pizza.
+If we were to make some learning objectives for a workshop on how to bake a pizza.
 
 Here's an example of a bad learning objective:
 
@@ -263,3 +263,5 @@ If we write any amount of code into our lesson plans. It must be accurate. We al
 Make sure the code looks pretty. This is something small, but make it look presentable. Additionally make it accessible. (ie. copy pastable)
 
 Additionally if we have an exercise associated with the workshop we're creating, it's usually very helpful to have a git repository containing the exercises with solutions branches for any solutions.
+
+Finally, if we're doing a software or "code" oriented workshop. Coding exercises with solutions are extremely beneficial. With a coding exercise, Students now have metrics against the learning objectives. They can know, innately, whether they have learned what they needed to from the lesson. Not only that, but it also allows the instructor to leverage different parts of the exercises as checks on learning.

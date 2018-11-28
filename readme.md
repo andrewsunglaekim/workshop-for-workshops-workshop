@@ -30,7 +30,8 @@ Andragogy is the science of understanding and supporting lifelong education of a
 
 ### Andragogy - discussion (7/11)
 
-Read over the following 6 bullet points for the next 2 minutes. 
+Read over the following 6 bullet points for the next 2 minutes.
+
 Knowles' theory can be stated with six assumptions related to the motivation of adult learning:
 
 -  **Need to know**: Adults need to know the reason for learning something.
@@ -105,11 +106,11 @@ There are others that require more rigorous procedural instructions and follow t
 
 ### Good 'ol college style lecture
 
-Sometimes we need to sit there and explain something for 5 minutes. Be cognizant of student engagement here, it's easy to loose students during particularly long and dull portions of lectures.
+Sometimes we need to sit there and explain something for 5 minutes. Be cognizant of student engagement here, it's easy to lose students during particularly long and dull portions of lectures.
 
 ### I do - you do (and vice versa)
 
-Useful as a check on learning, also useful here. So it can act as both an assessment for us as instructors but also a helpful teaching technique
+Useful as a check on learning, also useful here. It can act as both an assessment for us as instructors but also a helpful teaching technique
 
 ### Students teach
 

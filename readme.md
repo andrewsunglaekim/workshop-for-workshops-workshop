@@ -92,7 +92,7 @@ These can vary greatly depending on the type of workshop we'd like to conduct. I
 
 ## Check on learning - exercise 2 (4/28)
 
-As a group come up with at least 1 check on learning you could conduct against any of your current learning objectives.
+As a group come up with at least 1 check on learning you could conduct against any of your current learning objectives. Write 2-3 sentences on how you would execute this check on learning.
 
 ## General Teaching Techniques (4/32)
 
